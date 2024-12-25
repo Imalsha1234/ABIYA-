@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~XMRQWZLR#VvQyaaaQos87BOTSqoNxQoL0xmA6Y-t3_BOwWncAv4U",
+    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~CBYGlT4a#0PQEWwS7wiTk7Xg2TLJA6skVQiYcPHnoetAlXxFMPrM",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -27,7 +27,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    BOT_NAME: process.env.BOT_NAME || "ᴏʟᴅ ᴋɪɴɢ ʟᴏᴋᴜ ᴀʙɪʏᴀ",
     STATUS_REPLY: process.env.STATUS_REPLY || "`*ඔයගෙ ස්ටෙටස්  බැලුවා මගෙ ස්ටෙටස්  බලාන්න ඉතිම්💗👨‍💻💗*`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
